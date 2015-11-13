@@ -1,2 +1,2 @@
 # fizzbuzz-asm
-Short implementation of fizzbuzz in x86 assembler
+Short implementation of fizzbuzz in x86 assembler for linux
